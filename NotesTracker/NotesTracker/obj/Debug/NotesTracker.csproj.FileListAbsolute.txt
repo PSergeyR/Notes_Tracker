@@ -1,0 +1,12 @@
+C:\Users\UserS\source\repos\NotesTracker\NotesTracker\bin\Debug\NotesTracker.exe.config
+C:\Users\UserS\source\repos\NotesTracker\NotesTracker\bin\Debug\NotesTracker.exe
+C:\Users\UserS\source\repos\NotesTracker\NotesTracker\bin\Debug\NotesTracker.pdb
+C:\Users\UserS\source\repos\NotesTracker\NotesTracker\obj\Debug\NotesTracker.csprojAssemblyReference.cache
+C:\Users\UserS\source\repos\NotesTracker\NotesTracker\obj\Debug\NotesTracker.Properties.Resources.resources
+C:\Users\UserS\source\repos\NotesTracker\NotesTracker\obj\Debug\NotesTracker.csproj.GenerateResource.cache
+C:\Users\UserS\source\repos\NotesTracker\NotesTracker\obj\Debug\NotesTracker.csproj.CoreCompileInputs.cache
+C:\Users\UserS\source\repos\NotesTracker\NotesTracker\obj\Debug\NotesTracker.exe
+C:\Users\UserS\source\repos\NotesTracker\NotesTracker\obj\Debug\NotesTracker.pdb
+C:\Users\UserS\source\repos\NotesTracker\NotesTracker\bin\Debug\Database.mdf
+C:\Users\UserS\source\repos\NotesTracker\NotesTracker\bin\Debug\Database_log.ldf
+C:\Users\UserS\source\repos\NotesTracker\NotesTracker\obj\Debug\NotesTracker.MainWindow.resources
